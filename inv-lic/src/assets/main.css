@@ -21,7 +21,7 @@ body {
   margin: 0;
   background-color: white;
 }
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   
   .ulL{
     height: 100%;
