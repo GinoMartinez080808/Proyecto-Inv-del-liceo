@@ -210,6 +210,7 @@ background-color: gray;}
   height: 100%;
 }
 }
+
 @media (min-width: 400px) {
 header { grid-area: header; 
   background: hsla(160, 100%, 37%, 1);
@@ -221,44 +222,44 @@ header { grid-area: header;
 .matematica{
   color: green;
   font-weight: bolder;
-  list-style:decimal-leading-zero ;
+ 
    
 }
 .quimica{
   color: blue;
   font-weight: bolder;
-  list-style:decimal-leading-zero ;
+  
    
 }
 .fisica{
   
   color: black;
   font-weight: bolder;
-  list-style:decimal-leading-zero ;
+
    
 }
 .ghc{
   color: red;
   font-weight: bolder;
-  list-style:decimal-leading-zero ;
+ 
    
 }
 .literatura{
   color:brown;
   font-weight: bold;
-  list-style:decimal-leading-zero ;
+ 
    
 }
 .ci{
   color:chocolate;
   font-weight: bolder;
-  list-style:decimal-leading-zero ;
+  
    
 }
 .edufisica{
   color:cadetblue;
   font-weight: bolder; 
-  list-style:decimal-leading-zero;
+  
    
 }
 li:hover{
