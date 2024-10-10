@@ -1,0 +1,112 @@
+@import './base.css';
+
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+body {
+  display: flex;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: white;
+}
+@media (min-width: 400px) {
+  .ulL{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    
+    }
+    .links{
+      background: gainsboro;
+      height: 80%;
+      width: 90%;
+    }
+  #app {
+    display: grid; 
+    display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    "header header header header header header"
+    "clases clases clases clases clases clases"
+    "main main main main main main"
+    "main main main main main main"
+    "main main main main main main"
+    "main main main main main main"
+    "main main main main main main"
+    "main main main main main main"
+    "footer footer footer footer footer footer"; 
+
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+}
+
+@media (min-width: 1024px) {
+  .ulL{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+    flex-direction: column;
+    
+    }
+    .links{
+      background: gainsboro;
+      height: 80%;
+      width: 70%;
+    }
+  #app {
+   
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+      "header header header header header header"
+      "clases main main main main main"
+      "clases main main main main main"
+      "clases main main main main main"
+      "clases main main main main main"
+      "clases main main main main main"
+      "clases main main main main main"
+      "clases main main main main main"
+      "footer footer footer footer footer footer"; 
+  
+
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+}
+.pag{
+  height: 90%;
+  width: 70%;
+  padding:1rem;
+  overflow: auto;
+  background: gainsboro;
+}
+
+
