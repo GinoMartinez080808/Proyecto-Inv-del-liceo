@@ -114,7 +114,7 @@ function mostrarEduF(){
 </template>
 
 <style scoped>
-@media (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
 header { grid-area: header; 
   background: hsla(160, 100%, 37%, 1);
   display: flex;
@@ -211,7 +211,7 @@ background-color: gray;}
 }
 }
 
-@media (min-width: 400px) {
+@media screen and (min-width: 400px) {
 header { grid-area: header; 
   background: hsla(160, 100%, 37%, 1);
   display: flex;
