@@ -211,7 +211,7 @@ background-color: gray;}
 }
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 300px) {
 header { grid-area: header; 
   background: hsla(160, 100%, 37%, 1);
   display: flex;
