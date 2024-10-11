@@ -64,7 +64,16 @@ body {
     height: 100%;
     width: 100%;
   }
-  
+  .pag{
+    height: 90%;
+    width: 85%;
+    padding:1rem;
+    overflow: auto;
+    background: gainsboro;
+    border-radius: 20px;
+    border: 2px solid hsla(160, 100%, 37%, 1) ;
+    padding: 1rem;
+  }
   
 }
 
@@ -107,19 +116,19 @@ body {
     height: 100%;
     width: 100%;
   }
-  
+  .pag{
+    height: 90%;
+    width: 70%;
+    padding:1rem;
+    overflow: auto;
+    background: gainsboro;
+    border-radius: 20px;
+    border: 2px solid hsla(160, 100%, 37%, 1) ;
+    padding: 1rem;
+  }
   
 }
-.pag{
-  height: 90%;
-  width: 70%;
-  padding:1rem;
-  overflow: auto;
-  background: gainsboro;
-  border-radius: 20px;
-  border: 2px solid hsla(160, 100%, 37%, 1) ;
-  padding: 1rem;
-}
+
 .pag::-webkit-scrollbar-thumb {
   background-color: hsla(160, 100%, 37%, 1);    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */

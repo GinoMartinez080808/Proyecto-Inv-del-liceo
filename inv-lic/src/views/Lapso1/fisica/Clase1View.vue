@@ -46,7 +46,7 @@ Como aprendiste o aprenderás en la sección de resolución de ecuaciones, cuand
 <h3 style="color: cadetblue; font-weight: bold;">Despeje de ecuaciones de primer grado:</h3>
 <br>
 <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
-<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 70%;"  alt="">
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
 <h4>
@@ -91,7 +91,7 @@ Como aprendiste o aprenderás en la sección de resolución de ecuaciones, cuand
     </h3>
     <br>
     <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
-<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=640x1024:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 70%;"  alt="">
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=640x1024:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
 <h4>
@@ -125,7 +125,7 @@ Observa que los pasos se realizaron como en el ejemplo anterior, solo cambió el
 </h4>
 <br>
 <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VQ_9TDwRCvY?si=dzN8HurHXjQzb5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="280" height="315" src="https://www.youtube.com/embed/VQ_9TDwRCvY?si=dzN8HurHXjQzb5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
   </div>
 </template>
