@@ -127,6 +127,50 @@ Observa que los pasos se realizaron como en el ejemplo anterior, solo cambió el
 <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
     <iframe width="280" height="315" src="https://www.youtube.com/embed/VQ_9TDwRCvY?si=dzN8HurHXjQzb5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
+<h3  style="color: cadetblue; font-weight: bold;">Ejercicios de la clase:</h3>
+  <br>
+  <h4>
+    (1). ejercicio:L=A(K-S), despejar K, Primero tienen que ver que la A esta multiplicando a K y S.
+
+  </h4>
+  <br>
+  <h4>
+    Quedaria asi, L=AK-AS, procedemos a pasar al otro lado de la igualdad a AS que estaba en negativo pasa a positivo.
+  </h4>
+  <br>
+  <h4>quedaria asi , L+AS=AK,Ahora pasaremos la A al otro lado pasa de multiplicar a dividir.</h4>
+   <br>
+   <h4>(L+AS)/A, por ultimo la A de arriba muere por la a de abajo queda esto asi.</h4>
+   <br>
+   <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+<img src="./img de clase 1/Imagen de WhatsApp 2024-10-10 a las 22.21.46_ccbf31d1.jpg" style="height: 80%; width: 100%;"  alt="">
+</div>
+<br>
+<h4>(2). L=5.M.N.5^2, despejar N, primero debemos ver que todo practicamente es una multiplicación, pasamos todo al otro lado de la igualdad lo que multiplica pasa a dividir.</h4>
+<br>
+<h4>
+    N=L/5M5^2, Ahora resolvemos el 5 elevada a la 2 que resultaria en 25 luego lo multiplicamos por el otro 5 y quedaria 125.M .
+</h4>
+<br>
+<h4>N=L/125M este es el resultado</h4>
+<br>
+<h4>(3). L=V.T-1/2K.T^2, despejar V, vamos a pasar -1/2K.T^2 al otro lado de la igualdad todo ya que 1/2 es una fraccion y no podemos multiplicar ni elevar las otras icognitas quedara asi el ejercicio. </h4>
+<br>
+<h4>L+1/2K.T^2=V.T, ahora pasaremos la T que multiplica V ,pasa a dividir.</h4>
+<br>
+<h4>(L+1/K.T^2)/T=V <span style="color: red; font-weight: bold;">Nota que el parentesis lo pongo por que debajo de todo eso va la t y no debes poner el parentesis en la hoja </span></h4>
+<br>
+<h4>
+    (4). A/B=M/T , Despejar A, este es sencillo pasaremos B al otro lado osea pasa a multiplicar pero antes de eso aplicaremos igualdad multiplicando B de ambos lados para matar la B del otro lado.
+</h4>
+<br>
+<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+<img src="./img de clase 1/2.jpg" style="height: 80%; width: 100%;"  alt="">
+</div>
+<br>
+<h4>Y por ultimo como se ve en la imagen queda asi el ejercico: A=M.B/T ****** <span style="color: red; font-weight: bold; font-style: oblique;">Gracias por copiarme Bitchs</span></h4>
+
   </div>
 </template>
 <style scoped>
