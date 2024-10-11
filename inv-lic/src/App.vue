@@ -3,7 +3,8 @@ import { RouterLink, RouterView } from 'vue-router'
 import {ref} from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Whastapp from './components/Whastapp.vue';
-const linksM = ref(true)
+const lapsoM = ref(true)
+const linksM = ref(false)
 const mateM = ref(true)
 const fisicaM = ref(true)
 const quimicaM = ref(true)
@@ -53,7 +54,40 @@ function mostrarEduF(){
   </header>
   <div class="clases">
     <div class="links">
+      <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="lapsoM == true"> 
+        <li @click="()=>{
+          lapsoM = false;
+           linksM = true;
+        }" style="color:coral; border: none;
+  font-weight: bold;
+  font-size: 20px;
+  list-style:decimal-leading-zero;"> Lapso  </li>
+  
+        <li  @click="()=>{
+          lapsoM = false;
+           linksM = true;
+        }" style="color:coral; border: none;
+  font-weight: bold;
+  font-size: 20px;
+  list-style:decimal-leading-zero;"> Lapso  </li>
+    
+    <li  @click="()=>{
+          lapsoM = false;
+           linksM = true;
+        }" style="color:coral; border: none;
+  font-weight: bold;
+  font-size: 20px;
+  list-style:decimal-leading-zero;"> Lapso  </li>
+      </ul>
+      
        <ul class="ulL"  v-if="linksM == true" >
+        <p v-if="linksM == true" @click="()=>{
+          lapsoM = true;
+           linksM = false;
+        }" style="color:coral; border: none;
+  font-weight: bold;
+  font-size: 20px;
+  "> < </p>
         <li v-if="linksM == true" @click="()=>{
            mateM = false;
            linksM = false;
@@ -82,25 +116,110 @@ function mostrarEduF(){
    linksM = false;} " class="edufisica">Edu Fisica</li>
        </ul>
        <ul class="ulL" v-if="mateM == false">
-        <li class="btnS" @click="()=>{
+        <p class="btnS" @click="()=>{
           mateM = true;
           linksM = true;
-        }"><</li>
+        }"><</p>
         <li class="matematica"> <RouterLink class="matematica" to="/">Clase</RouterLink>
           </li>
         <li class="matematica"><RouterLink class="matematica" to="/about">Clase</RouterLink></li>
         <li class="matematica"><RouterLink class="matematica" to="/about">Clase</RouterLink></li>
 
        </ul>
-       <ul class="ulL" v-if="fisicaM == false">
-        <li class="btnS" @click="()=>{
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="fisicaM == false">
+        <p style="  background: none;
+  border: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  " @click="()=>{
           fisicaM = true;
           linksM = true;
-        }"><</li>
+        }"><</p>
         <li class="fisica"> <RouterLink class="fisica" to="/">Clase</RouterLink>
           </li>
         <li class="fisica"><RouterLink class="fisica" to="/about">Clase</RouterLink></li>
         <li class="fisica"><RouterLink class="fisica" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="quimicaM == false">
+        <p style="  background: none;
+  border: none;
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+" @click="()=>{
+          quimicaM = true;
+          linksM = true;
+        }"><</p>
+        <li class="quimica"> <RouterLink class="quimica" to="/">Clase</RouterLink>
+          </li>
+        <li class="quimica"><RouterLink class="quimica" to="/about">Clase</RouterLink></li>
+        <li class="quimica"><RouterLink class="quimica" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="literaturaM == false">
+        <p style="  background: none;
+  border: none;
+  color: brown;
+  font-weight: bold;
+  font-size: 20px;
+  " @click="()=>{
+          literaturaM = true;
+          linksM = true;
+        }"><</p>
+        <li class="literatura"> <RouterLink class="literatura" to="/">Clase</RouterLink>
+          </li>
+        <li class="literatura"><RouterLink class="literatura" to="/about">Clase</RouterLink></li>
+        <li class="literatura"><RouterLink class="literatura" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="ghcM == false">
+        <p style="  background: none;
+  border: none;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+  " @click="()=>{
+          ghcM = true;
+          linksM = true;
+        }"><</p>
+        <li class="ghc"> <RouterLink class="ghc" to="/">Clase</RouterLink>
+          </li>
+        <li class="ghc"><RouterLink class="ghc" to="/about">Clase</RouterLink></li>
+        <li class="ghc"><RouterLink class="ghc" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="ciM == false">
+        <p style="  background: none;
+  border: none;
+  color: chocolate;
+  font-weight: bold;
+  font-size: 20px;
+  " @click="()=>{
+          ciM = true;
+          linksM = true;
+        }"><</p>
+        <li class="ci"> <RouterLink class="ci" to="/">Clase</RouterLink>
+          </li>
+        <li class="ci"><RouterLink class="ci" to="/about">Clase</RouterLink></li>
+        <li class="ci"><RouterLink class="ci" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="edufM == false">
+        <p style="  background: none;
+  border: none;
+  color: cadetblue;
+  font-weight: bold;
+  font-size: 20px;
+  list-style: none;" @click="()=>{
+          edufM = true;
+          linksM = true;
+        }"><</p>
+        <li class="edufisica"> <RouterLink class="edufisica" to="/">Clase</RouterLink>
+          </li>
+        <li class="edufisica"><RouterLink class="edufisica" to="/about">Clase</RouterLink></li>
+        <li class="edufisica"><RouterLink class="edufisica" to="/about">Clase</RouterLink></li>
 
        </ul>
     </div>
@@ -109,7 +228,7 @@ function mostrarEduF(){
   <RouterView />
 </main>
  <footer>
-
+   <h3 style="color: blue; font-weight: bold;">@Todo los derechos de autor a <span style="color: hsla(160, 100%, 37%, 1); font-weight: bold;">Gino Martinez</span></h3>
  </footer>
 </template>
 
@@ -298,7 +417,11 @@ justify-content: center;
 align-items: center;}
 
 footer { grid-area: footer; 
-background-color: gray;}
+background-color: gray;
+display: flex;
+align-items: center;
+justify-content: center;
+}
 .logo{
   width: 30%;
   height: 100%;
@@ -308,4 +431,5 @@ background-color: gray;}
   height: 100%;
 }
 }
+
 </style>
