@@ -34,12 +34,15 @@ body {
     list-style: none;
    padding:1rem ;
    font-size: 16px;
+
     
     }
     .links{
       background: gainsboro;
       height: 80%;
       width: 90%;
+      border-radius: 20px;
+      border: 2px solid hsla(160, 100%, 37%, 1);
     }
   #app {
     display: grid; 
@@ -73,12 +76,15 @@ body {
     justify-content: space-around;
     align-items: normal;
     flex-direction: column;
-    padding:2rem ;
+    padding:2rem ; 
+
     }
     .links{
       background: gainsboro;
       height: 80%;
       width: 70%;
+      border-radius: 20px;
+      border: 2px solid hsla(160, 100%, 37%, 1);
     }
   #app {
    
@@ -110,6 +116,8 @@ body {
   padding:1rem;
   overflow: auto;
   background: gainsboro;
+  border-radius: 20px;
+  border: 2px solid hsla(160, 100%, 37%, 1) ;
 }
 
 

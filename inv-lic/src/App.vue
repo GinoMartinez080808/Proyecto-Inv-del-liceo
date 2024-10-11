@@ -47,7 +47,7 @@ function mostrarEduF(){
     <div class="info">
     <ul class="ulI">
       <li>Terminos y condiciones</li>
-      <li><Whastapp/></li>
+      <li><a target="_blank"href="https://www.instagram.com/ginojmm17?igsh=YmtjOHlqcWxpYXYz"></a><Whastapp/></li>
       <li></li>
     </ul>
     </div>
@@ -402,6 +402,7 @@ align-items: center;
 flex-direction: row;
 font-size: 22px;
 list-style: none;
+
 }
 .clases { grid-area: clases; 
 display: flex;
