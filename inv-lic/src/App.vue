@@ -64,16 +64,14 @@ function mostrarEduF(){
   list-style:decimal-leading-zero;"> Lapso  </li>
   
         <li  @click="()=>{
-          lapsoM = false;
-           linksM = true;
+          
         }" style="color:coral; border: none;
   font-weight: bold;
   font-size: 20px;
   list-style:decimal-leading-zero;"> Lapso  </li>
     
     <li  @click="()=>{
-          lapsoM = false;
-           linksM = true;
+         
         }" style="color:coral; border: none;
   font-weight: bold;
   font-size: 20px;
