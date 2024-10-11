@@ -118,6 +118,7 @@ body {
   background: gainsboro;
   border-radius: 20px;
   border: 2px solid hsla(160, 100%, 37%, 1) ;
+  padding: 1rem;
 }
 
 

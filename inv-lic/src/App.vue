@@ -134,7 +134,7 @@ function mostrarEduF(){
           fisicaM = true;
           linksM = true;
         }"><</p>
-        <li class="fisica"> <RouterLink class="fisica" to="/">Clase</RouterLink>
+        <li class="fisica"> <RouterLink class="fisica" to="/clase1matematica">Clase</RouterLink>
           </li>
         <li class="fisica"><RouterLink class="fisica" to="/about">Clase</RouterLink></li>
         <li class="fisica"><RouterLink class="fisica" to="/about">Clase</RouterLink></li>
