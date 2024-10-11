@@ -120,7 +120,11 @@ body {
   border: 2px solid hsla(160, 100%, 37%, 1) ;
   padding: 1rem;
 }
-
+.pag::-webkit-scrollbar-thumb {
+  background-color: hsla(160, 100%, 37%, 1);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 1px solid gray;  /* creates padding around scroll thumb */
+}
 
 li{
   margin-left: 5px;
