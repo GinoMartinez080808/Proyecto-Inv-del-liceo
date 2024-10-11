@@ -46,8 +46,8 @@ function mostrarEduF(){
    
     <div class="info">
     <ul class="ulI">
-      <li>Terminos y condiciones</li>
-      <li><a target="_blank"href="https://www.instagram.com/ginojmm17?igsh=YmtjOHlqcWxpYXYz"></a><Whastapp/></li>
+      <li ><RouterLink style="color: white;"  to="/about">Terminos y condiciones</RouterLink></li>
+      <li><a style="color: white;" target="_blank"href="https://www.instagram.com/ginojmm17?igsh=YmtjOHlqcWxpYXYz"><Whastapp/></a></li>
       <li></li>
     </ul>
     </div>
@@ -65,14 +65,14 @@ function mostrarEduF(){
   
         <li  @click="()=>{
           
-        }" style="color:coral; border: none;
+        }" style="color:gray; border: none;
   font-weight: bold;
   font-size: 20px;
   list-style:decimal-leading-zero;"> Lapso  </li>
     
     <li  @click="()=>{
          
-        }" style="color:coral; border: none;
+        }" style="color:gray; border: none;
   font-weight: bold;
   font-size: 20px;
   list-style:decimal-leading-zero;"> Lapso  </li>
@@ -113,7 +113,7 @@ function mostrarEduF(){
         <li v-if="linksM == true" @click="()=>{ edufM = false;
    linksM = false;} " class="edufisica">Edu Fisica</li>
        </ul>
-       <ul class="ulL" v-if="mateM == false">
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="mateM == false">
         <p class="btnS" @click="()=>{
           mateM = true;
           linksM = true;
@@ -226,7 +226,7 @@ function mostrarEduF(){
   <RouterView />
 </main>
  <footer>
-   <h3 style="color: blue; font-weight: bold;">@Todo los derechos de autor a <span style="color: hsla(160, 100%, 37%, 1); font-weight: bold;">Gino Martinez</span></h3>
+   <h3 style="color: black; font-weight: bold;">@Todo los derechos de autor a <span style="color: hsla(160, 100%, 37%, 1); font-weight: bold;">Gino Martinez</span></h3>
  </footer>
 </template>
 
@@ -420,6 +420,8 @@ background-color: gray;
 display: flex;
 align-items: center;
 justify-content: center;
+
+border-top: 3px solid hsla(160, 100%, 37%, 1);
 }
 .logo{
   width: 30%;
