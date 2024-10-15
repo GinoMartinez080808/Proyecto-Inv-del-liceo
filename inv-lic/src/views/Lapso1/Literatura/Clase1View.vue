@@ -28,13 +28,7 @@ El P.C.V. le otorga una beca para continuar los estudios en Rumania, en 1968.  E
 </h4>
 <br>
 <h4>
-    Piensa esto como una ensalada a la que le agregamos lechuga, queso en cubos, tomate y cebolla. Si yo quiero "despejar la lechuga" solo tengo que hacer lo contrario a "agregar", es decir que tengo que "quitar" el queso en cubos, el tomate y la cebolla. Si de esta manera ya captaste lo que es realizar un despeje, entonces apliquemos este concepto a las ecuaciones.</h4>
-    <br>
-    <h4>   Para el caso específico de las ecuaciones, el despeje de una variable también nos ayuda a encontrar un valor o una serie de valores que hacen la igualdad verdadera y para ello se acostumbra colocar la variable sola (con exponente y coeficiente 1) en el miembro izquierda, mientras que el resultado se coloca del lado derecho.</h4>
-<br>
-
-<h4>
-    Alí regresa a Venezuela en el año de 1973, donde en la búsqueda por la unidad del pueblo, acompaña a José Vicente Rangel y al MAS.  
+    Alí regresa a Venezuela en el año de 1973, donde  acompaña a José Vicente Rangel y al MAS.  
 </h4>
 <br>
 <h4>En Barquisimeto durante el año 1977 llega a conocer a su futura esposa Sol Mussett y con el sol a medio cielo nacieron cinco muchachos más: Sandino, Jorgito, Servando, Florentino y Juan Simón.</h4>
@@ -44,14 +38,17 @@ El P.C.V. le otorga una beca para continuar los estudios en Rumania, en 1968.  E
     </h3>
 <br>
 <h4>
-    Luego el destino de sus días estaría destinado a la lucha por el pueblo, al canto por las masas y a su increíble solidaridad para con la lucha de "La Patria Buena".  Con el correr de los años las persecuciones se multiplican, los atentados son más frecuentes; la amenaza que significaba el canto de Alí para las cúpulas del sistema se vuelven cada vez mas solidarias y el 16 de Febrero de 1985 un fatal accidente automovilístico envuelve de luto al pueblo de Venezuela.</h4>
+    Luego el destino de sus días estaría destinado al canto por las masas . el 16 de Febrero de 1985 un fatal accidente automovilistico acaban con esta persona</h4>
     <br>
     <h4>
         "...Y fuí llenando con flores a mi fusil de poemas y afiné la puntería del canto contra las bestias. Fuí sumando corazones para vencer madrigueras al llenarme los rumores del volantín cuando vuela. Yo amarré los recuerdos al árbol de la noche y fuí en busca del sol..."
  
     </h4>
     <br>
-   
+<h3 style="color: hsla(160, 100%, 37%, 1); font-weight: bold;">
+        Nota del Creador:<span style="color: red; font-weight: bold;">Este articulo que escribi tiene cierta orientacion politica que no me identifica, al revez estoy en contra el como retratan la biografia de este difunto por que las idea que apoyo son de todo menos algo bueno,trate de quitar partes inecesarias con tintes de izquierda, atte:C</span>
+    </h3>
+<br>
   </div>
 </template>
 <style scoped>
