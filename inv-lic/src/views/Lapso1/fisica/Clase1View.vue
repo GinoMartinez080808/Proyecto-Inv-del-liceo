@@ -45,7 +45,7 @@ Como aprendiste o aprenderás en la sección de resolución de ecuaciones, cuand
 <br>
 <h3 style="color: cadetblue; font-weight: bold;">Despeje de ecuaciones de primer grado:</h3>
 <br>
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
 <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
@@ -90,7 +90,7 @@ Como aprendiste o aprenderás en la sección de resolución de ecuaciones, cuand
         Despeje de productos y cocientes
     </h3>
     <br>
-    <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+    <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
 <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=640x1024:format=jpg/path/sd67b1a043f6e96ce/image/ia815dddd4c0077b0/version/1596507895/image.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
@@ -124,7 +124,7 @@ Observa que los pasos se realizaron como en el ejemplo anterior, solo cambió el
     Aun quedan explicar el despeje de divisiones, exponentes y radicales pero eso se los dejo en un video.
 </h4>
 <br>
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
     <iframe width="280" height="315" src="https://www.youtube.com/embed/VQ_9TDwRCvY?si=dzN8HurHXjQzb5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
@@ -143,7 +143,7 @@ Observa que los pasos se realizaron como en el ejemplo anterior, solo cambió el
    <br>
    <h4>(L+AS)/A, por ultimo la A de arriba muere por la a de abajo queda esto asi.</h4>
    <br>
-   <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+   <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
 <img src="./img de clase 1/Imagen de WhatsApp 2024-10-10 a las 22.21.46_ccbf31d1.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
@@ -165,7 +165,7 @@ Observa que los pasos se realizaron como en el ejemplo anterior, solo cambió el
     (4). A/B=M/T , Despejar A, este es sencillo pasaremos B al otro lado osea pasa a multiplicar pero antes de eso aplicaremos igualdad multiplicando B de ambos lados para matar la B del otro lado.
 </h4>
 <br>
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh;">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
 <img src="./img de clase 1/2.jpg" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>

@@ -13,6 +13,11 @@ import TheWelcome from '../components/TheWelcome.vue'
     <h4>*****Correccion en tamaños de letras*******</h4>
     <br>
     <h4 style="color: red; font-weight: bold;">*****Se agrego el primer tema de fisica que en realidad es matematica es la clase 1 (probablemente cambie)*******</h4>
+  <br>
+  <h4 style="color: red; font-weight: bold;">******Se agrego investigacion de quimica en la clase 1*******</h4>
+  <br>
+  <h4 style="color: red; font-weight: bold;">******Se agrego investigacion de Literatura en la clase 1*******</h4>
+  <br>
   </div>
 </template>
 <style scoped>

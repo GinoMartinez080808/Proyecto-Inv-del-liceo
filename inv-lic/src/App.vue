@@ -150,7 +150,7 @@ function mostrarEduF(){
           quimicaM = true;
           linksM = true;
         }"><</p>
-        <li class="quimica"> <RouterLink class="quimica" to="/">Clase</RouterLink>
+        <li class="quimica"> <RouterLink class="quimica" to="/clase1quimica">Clase</RouterLink>
           </li>
         <li class="quimica"><RouterLink class="quimica" to="/about">Clase</RouterLink></li>
         <li class="quimica"><RouterLink class="quimica" to="/about">Clase</RouterLink></li>
@@ -166,7 +166,7 @@ function mostrarEduF(){
           literaturaM = true;
           linksM = true;
         }"><</p>
-        <li class="literatura"> <RouterLink class="literatura" to="/">Clase</RouterLink>
+        <li class="literatura"> <RouterLink class="literatura" to="/clase1literatura">Clase</RouterLink>
           </li>
         <li class="literatura"><RouterLink class="literatura" to="/about">Clase</RouterLink></li>
         <li class="literatura"><RouterLink class="literatura" to="/about">Clase</RouterLink></li>
