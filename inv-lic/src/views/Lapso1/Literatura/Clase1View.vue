@@ -8,7 +8,8 @@
         <h2>BIOGRAFIA DE <span style="color: red; font-weight: bold;">ALI PRIMERA</span></h2>
     </div>
     <br> 
-    <h4>Se entiende por química orgánica al área de la química que se encarga del estudio de sustancias y compuestos orgánicos, es decir, aquellos que en su estructura molecular contienen carbono, y que se combina con otros elementos tales como el hidrógeno, nitrógeno, oxígeno y azufre.
+    <h4>
+        Alí Rafael Primera Rosell, nació en Coro, estado Falcón, Venezuela el 31 de Octubre de 1942.  Sus padres fueron Antonio Primera y Carmen Adela Rossell.  A la edad de dos años muere su padre a raíz de un tiroteo en la prefectura donde trabajaba.
 </h4>
 <br>
 <h4>Por su procedencia humilde desempeño varios oficios, que fueron desde limpiabotas hasta boxeador, trabajos que no lo desanimaron para continuar sus estudios. Con los campos de Paraguaná de equipaje y la primaria concluida entre pescadores y el maestro Figueredo, llegó a Caracas.  "...Yo me vine a tratar de continuar los estudios, empecé en el Liceo Caracas...". Culminaron sus estudios en 1963 cuando obtuvo el título de bachiller. Al año siguiente comenzó sus estudios en el área de Química en la Universidad Central de Venezuela.
