@@ -397,7 +397,7 @@ li:hover{
 height: 100%;
 width: 100%;
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 align-items: center;
 flex-direction: row;
 font-size: 22px;
