@@ -110,7 +110,7 @@ const biolM = ref(true)
         <li class="matematica"><RouterLink class="matematica" to="/about">Clase</RouterLink></li>
 
        </ul>
-       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="sobeM == false">
+       <ul class="ulL" style="list-style: decimal-leading-zero; color: darkorange;" v-if="sobeM == false">
         <p class="btnS" @click="()=>{
           sobeM = true;
           linksM = true;
