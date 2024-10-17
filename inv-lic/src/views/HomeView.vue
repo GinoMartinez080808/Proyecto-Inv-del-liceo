@@ -18,6 +18,8 @@ import TheWelcome from '../components/TheWelcome.vue'
   <br>
   <h4 style="color: red; font-weight: bold;">******Se agrego investigacion de Literatura en la clase 1*******</h4>
   <br>
+  <h4 style="color: red; font-weight: bold;">******Se agrego investigacion de Ciencias de la tierra en la clase 1*******</h4>
+  <br>
   </div>
 </template>
 <style scoped>
