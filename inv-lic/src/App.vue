@@ -12,28 +12,10 @@ const literaturaM = ref(true)
 const ciM = ref(true)
 const ghcM = ref(true)
 const edufM = ref(true)
+const sobeM = ref(true)
+const biolM = ref(true)
 
-function mostrarM(){
- 
-}
-function mostrarF(){
- 
-}
-function mostrarQ(){
- 
-}
-function mostrarL(){
- 
-}
-function mostrarC(){
- 
-}
-function mostrarGHC(){
- 
-}
-function mostrarEduF(){
- 
-}
+
 
 </script>
 
@@ -110,6 +92,10 @@ function mostrarEduF(){
  ghcM = false;
  linksM = false;
         }" class="ghc">GHC</li>
+         <li v-if="linksM == true" @click="()=>{ sobeM = false;
+   linksM = false;} " class="soberania">Soberania</li>
+    <li v-if="linksM == true" @click="()=>{ biolM = false;
+   linksM = false;} " class="biologia">Biologia</li>
         <li v-if="linksM == true" @click="()=>{ edufM = false;
    linksM = false;} " class="edufisica">Edu Fisica</li>
        </ul>
@@ -122,6 +108,28 @@ function mostrarEduF(){
           </li>
         <li class="matematica"><RouterLink class="matematica" to="/about">Clase</RouterLink></li>
         <li class="matematica"><RouterLink class="matematica" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="sobeM == false">
+        <p class="btnS" @click="()=>{
+          sobeM = true;
+          linksM = true;
+        }"><</p>
+        <li class="soberania"> <RouterLink class="soberania" to="/">Clase</RouterLink>
+          </li>
+        <li class="soberania"><RouterLink class="soberania" to="/about">Clase</RouterLink></li>
+        <li class="soberania"><RouterLink class="soberania" to="/about">Clase</RouterLink></li>
+
+       </ul>
+       <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="biolM == false">
+        <p class="btnS" @click="()=>{
+          biolM = true;
+          linksM = true;
+        }"><</p>
+        <li class="biologia"> <RouterLink class="biologia" to="/">Clase</RouterLink>
+          </li>
+        <li class="biologia"><RouterLink class="biologia" to="/about">Clase</RouterLink></li>
+        <li class="biologia"><RouterLink class="biologia" to="/about">Clase</RouterLink></li>
 
        </ul>
        <ul class="ulL" style="list-style: decimal-leading-zero;" v-if="fisicaM == false">
@@ -278,6 +286,18 @@ header { grid-area: header;
 }
 .edufisica{
   color:cadetblue;
+  font-weight: bolder; 
+  list-style:decimal-leading-zero;
+   
+}
+.soberania{
+  color:darkorange;
+  font-weight: bolder; 
+  list-style:decimal-leading-zero;
+   
+}
+.biologia{
+  color:darkgreen;
   font-weight: bolder; 
   list-style:decimal-leading-zero;
    
