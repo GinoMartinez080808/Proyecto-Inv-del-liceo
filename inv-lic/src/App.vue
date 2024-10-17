@@ -206,7 +206,7 @@ const biolM = ref(true)
           ciM = true;
           linksM = true;
         }"><</p>
-        <li class="ci"> <RouterLink class="ci" to="/">Clase</RouterLink>
+        <li class="ci"> <RouterLink class="ci" to="/clase1ct">Clase</RouterLink>
           </li>
         <li class="ci"><RouterLink class="ci" to="/about">Clase</RouterLink></li>
         <li class="ci"><RouterLink class="ci" to="/about">Clase</RouterLink></li>
