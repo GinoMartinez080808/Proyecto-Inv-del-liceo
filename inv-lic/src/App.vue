@@ -413,6 +413,19 @@ li:hover{
   list-style: none;
 }
 
+.soberania{
+  color:darkorange;
+  font-weight: bolder; 
+  list-style:decimal-leading-zero;
+   
+}
+.biologia{
+  color:darkgreen;
+  font-weight: bolder; 
+  list-style:decimal-leading-zero;
+   
+}
+
 .ulI{
 height: 100%;
 width: 100%;
