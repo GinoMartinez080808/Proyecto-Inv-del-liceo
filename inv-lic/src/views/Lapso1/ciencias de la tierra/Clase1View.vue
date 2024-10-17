@@ -24,7 +24,7 @@
       Entre esas esta:
     </h3>
  <br>
- <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 80vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
+ <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
       <ul style="height: 50%; width: 50%; display: flex; justify-content: center; flex-direction: column; border: 2px solid hsla(160, 100%, 37%, 1); list-style:circle ; color: hsla(160, 100%, 37%, 1);">
         <li style="margin-top: 5px; margin-bottom: 5px;">Geografia.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;">Oceanografia.</li>
