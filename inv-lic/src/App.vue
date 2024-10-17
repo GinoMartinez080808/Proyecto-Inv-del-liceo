@@ -416,13 +416,13 @@ li:hover{
 .soberania{
   color:darkorange;
   font-weight: bolder; 
-  list-style:decimal-leading-zero;
+ 
    
 }
 .biologia{
   color:darkgreen;
   font-weight: bolder; 
-  list-style:decimal-leading-zero;
+ 
    
 }
 
