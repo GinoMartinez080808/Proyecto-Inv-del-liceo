@@ -99,7 +99,7 @@ box-shadow:  20px 20px 60px #bebebe,
     }
     .links{
       height: 80%;
-      width: 70%;
+      width: 80%;
       border: 2px solid hsla(160, 100%, 37%, 1);
       border-radius: 26px;
       background: linear-gradient(145deg, #f0f0f0, #cacaca);
