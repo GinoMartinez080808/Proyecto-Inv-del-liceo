@@ -239,7 +239,7 @@ const biolM = ref(true)
 </template>
 
 <style scoped>
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1129px) {
 header { grid-area: header; 
   background: hsla(160, 100%, 37%, 1);
   display: flex;
