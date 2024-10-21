@@ -115,7 +115,7 @@ const biolM = ref(true)
           sobeM = true;
           linksM = true;
         }"><</p>
-        <li class="soberania"> <RouterLink class="soberania" to="/">Clase</RouterLink>
+        <li class="soberania"> <RouterLink class="soberania" to="/clase1sobe">Clase</RouterLink>
           </li>
         <li class="soberania"><RouterLink class="soberania" to="/about">Clase</RouterLink></li>
         <li class="soberania"><RouterLink class="soberania" to="/about">Clase</RouterLink></li>
