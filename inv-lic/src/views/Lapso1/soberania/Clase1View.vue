@@ -11,7 +11,7 @@
   <h3 style="color: cadetblue; font-weight: bold;">Mapa de la gran colombia (<span style="color: red; font-weight: bold;">1826</span>):</h3>
   <br>
   <div style="width: 100%; display: flex; align-items: center; justify-content: center; height: 60vh; border-bottom: 2px solid hsla(160, 100%, 37%, 1); border-top: 2px solid hsla(160, 100%, 37%, 1);">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gran_Colombia_in_1826.svg/1211px-Gran_Colombia_in_1826.svg.png" style="height: 80%; width: 100%;"  alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-r1meCcObtw5uJ45BHNgE4VX69PZGvMUng&s" style="height: 80%; width: 100%;"  alt="">
 </div>
 <br>
 <h3 style="color: cadetblue; font-weight: bold;">Mapa de los estados unidos de venezuela (<span style="color: red; font-weight: bold;">1875</span>):</h3>
